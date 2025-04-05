@@ -20,4 +20,15 @@ git clone https://github.com/JoshuaRogers598/black-scholes-calculator.git
 cd black-scholes-calculator
 pip install -r requirements.txt
 streamlit run black_scholes_model.py
+```
+
+## Contact
+
+**Joshua Rogers**
+
+Feel free to reach out for collaboration, job opportunities, or any questions regarding this project.
+
+- **Email:** [joshuarogers598@gmail.com](mailto:joshuarogers598@gmail.com)
+- **Phone:** +44 7534 548471
+- **LinkedIn:** [Joshua Rogers](https://www.linkedin.com/in/joshuarogers598/)
 
