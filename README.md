@@ -12,7 +12,7 @@ A Streamlit-based Black-Scholes option pricing calculator with synced inputs, re
 ## Overview
 This Black-Scholes Option Calculator is a personal project built using Python and Streamlit, designed as a practical way for me to deepen my understanding of both programming and financial mathematics. It calculates theoretical prices for European call and put options based on the Black-Scholes model, and features a clean, interactive interface with synced sliders and input.
 
-I am currently developing my skills with the goal of working in a role which combines strong quantative analysis with financial expertise, and this project is part of a broader effort to strengthen my technical and analytical skills. While the tool is available for anyone to use and explore, it primarily serves as a demonstration of my progress and approach to building professional-grade applications.
+I am currently developing my skills with the goal of working in a role which combines strong quantative analysis with financial expertise, and this project is part of a broader effort to strengthen my technical and analytical skills. While the tool is available for anyone to use and explore, it primarily serves as a demonstration of my progress.
 
 ## Run Locally (Optional)
 ```bash
