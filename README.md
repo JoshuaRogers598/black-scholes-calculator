@@ -11,12 +11,6 @@ This Black-Scholes Option Calculator is a personal project built using Python an
 
 I am currently developing my skills with the goal of working in a role which combines strong quantative analysis with financial expertise, and this project is part of a broader effort to strengthen my technical and analytical skills. While the tool is available for anyone to use and explore, it primarily serves as a demonstration of my progress and approach to building professional-grade applications.
 
-To run the app locally:
-
-pip install -r requirements.txt
-streamlit run black_scholes_model.py
-More features, including 3D visualisation of volatility surfaces, are planned as I continue building on this foundation.
-
 ## Demo GIF
 ![Black-Scholes Calculator Demo](BS_demo.gif)
 
