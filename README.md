@@ -3,7 +3,7 @@
 A Streamlit-based Black-Scholes option pricing calculator with synced inputs, reset functionality, and future plans for 3D visualisation. Built to practice Python, Streamlit, and financial concepts.
 
 ## Live Demo
-[Open the Calculator on Streamlit Cloud]([https://black-scholes-calculator-jr.streamlit.app/])  
+[Open the Calculator on Streamlit Cloud](https://black-scholes-calculator-jr.streamlit.app)  
 *(No setup needed)*
 
 ## Overview
