@@ -21,8 +21,7 @@ cd black-scholes-calculator
 pip install -r requirements.txt
 streamlit run black_scholes_model.py
 ```
-
-## Contact
+## Contact
 
 **Joshua Rogers**
 
